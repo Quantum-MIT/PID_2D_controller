@@ -1,6 +1,6 @@
 # PID_2D_controller
 
-Read the documentation pdf for complete explanation of the solution
+  Read the DOCUMENTATION PDF for complete explanation of the solution
 I made this project as a part of entrance test of
 Aerial Robotics Lab, IIT Kharagpur. It is a MATLAB
 based simulated model of a 2D PID Controller.
